@@ -1,0 +1,8 @@
+4156
+Solapur_to_Pune
+Thu Dec 17 06:00:00 2015
+is departure time
+4526
+Pune_to_Solapur
+Thu Dec 17 11:00:00 2015
+is departure time
